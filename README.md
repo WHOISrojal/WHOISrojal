@@ -51,4 +51,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoisrojal&" alt="whoisrojal" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffeeifyoulike WHOISrojal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffeeifyoulike WHOISrojal" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/rojal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffeeifyoulike WHOISrojal" /></a></p><br><br>
