@@ -9,7 +9,6 @@
 
 <img align="right" alt="Coding" height="400" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-
 <p align="left"> <a href="https://twitter.com/rose_tweets007" target="blank"><img src="https://img.shields.io/twitter/follow/rose_tweets007?logo=twitter&style=for-the-badge" alt="rose_tweets007" /></a> </p>
 
 - 🔭 I’m currently working on **DevSecNetSysServCloud**
