@@ -44,6 +44,12 @@
 <a href="https://discord.gg/tZVKuHCV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="755418439509868675" height="30" width="40" /></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![skills](https://skillicons.dev/icons?i=bash,debian,anaconda,windows,linux,kali,c,cpp,java,html,css,bootstrap,vercel,js,php,npm,postman,nodejs,mysql,py,pytorch,scikitlearn,tensorflow,docker,git,github,linkedin,cloudflare,jquery,vscode&theme=light)
