@@ -44,6 +44,7 @@
 <a href="https://discord.gg/tZVKuHCV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="755418439509868675" height="30" width="40" /></a>
 </p>
 
+## Contibution Snake Grid:
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/WHOISrojal/WHOISrojal/output/github-contribution-grid-snake-dark.svg" />
 
 <h3 align="left">Languages and Tools:</h3>
