@@ -4,7 +4,7 @@
 
 <h4 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=&center=true&multiline=true&width=500&height=120&lines=I+am+currently+an+undergraduate+;Student.+I+have+keen+interest+in;studying+CS.+I+like+to+be+updated+;with+the+new+technologies.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=500&height=120&lines=I+am+currently+an+undergraduate+;Student.+I+have+keen+interest+in;studying+CS.+I+like+to+be+updated+;with+the+new+technologies.)](https://git.io/typing-svg)
 </h4>
 
 <img align="right" alt="Coding" height="400" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
