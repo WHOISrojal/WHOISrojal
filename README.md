@@ -1,6 +1,7 @@
 <img align="right" alt="Coding" height="300" width="1200" src="https://i.pinimg.com/564x/35/e8/88/35e888fa0298a24815ccc03a358687bd.jpg">
 
 <h1 align="center">Rojal Manandhar</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I+am+currently+an+undergraduate+Student.+I+have+keen+interest+in+studying+CS.+I+like+to+be+updated+with+the+new+technologies+:-);)](https://git.io/typing-svg)
 <h3 align="center">I am currently an undergraduate Student. I have keen interest in studying CS. I like to be updated with the new technologies :-).</h3>
 <img align="right" alt="Coding" height="400" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
