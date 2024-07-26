@@ -42,7 +42,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![skills](https://skillicons.dev/iconsi=bash,debian,anaconda,windows,linux,kali,c,cpp,java,html,css,bootstrap,vercel,js,php,npm,postman,nodejs,mysql,py,pytorch,scikitlearn,tensorflow,docker,git,github,linkedin,cloudflare,jquery,vscode&theme=light)
+<p align="left">![skills](https://skillicons.dev/iconsi=bash,debian,anaconda,windows,linux,kali,c,cpp,java,html,css,bootstrap,vercel,js,php,npm,postman,nodejs,mysql,py,pytorch,scikitlearn,tensorflow,docker,git,github,linkedin,cloudflare,jquery,vscode&theme=light) </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=whoisrojal&show_icons=true&locale=en" alt="whoisrojal" /></p>
 
