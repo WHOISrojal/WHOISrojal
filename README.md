@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" height="300" width="1200" src="https://i.pinimg.com/564x/35/e8/88/35e888fa0298a24815ccc03a358687bd.jpg">
+<img align="right" alt="Coding" height="200" width="1200" src="https://i.pinimg.com/564x/35/e8/88/35e888fa0298a24815ccc03a358687bd.jpg">
 
 <h1 align="center">Rojal Manandhar</h1>
 
