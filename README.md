@@ -5,7 +5,6 @@
 <h1 align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=&center=true&multiline=true&width=500&height=120&lines=I+am+currently+an+undergraduate+;Student.+I+have+keen+interest+in;studying+CS.+I+like+to+be+updated+;with+the+new+technologies.)](https://git.io/typing-svg)
-
 </h1>
 
 <h3 align="center">I am currently an undergraduate Student. I have keen interest in studying CS. I like to be updated with the new technologies :-).</h3>
