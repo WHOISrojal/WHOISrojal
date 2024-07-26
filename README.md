@@ -46,6 +46,8 @@
 
 ![snake gif](https://github.com/WHOISrojal/WHOISrojal/blob/output/github-contribution-grid-snake.svg)
 
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/WHOISrojal/WHOISrojal/output/github-contribution-grid-snake.svg" />
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![skills](https://skillicons.dev/icons?i=bash,debian,anaconda,windows,linux,kali,c,cpp,java,html,css,bootstrap,vercel,js,php,npm,postman,nodejs,mysql,py,pytorch,scikitlearn,tensorflow,docker,git,github,linkedin,cloudflare,jquery,vscode&theme=light)
