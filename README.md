@@ -53,6 +53,7 @@
 
 ![skills](https://skillicons.dev/icons?i=bash,debian,anaconda,windows,linux,kali,c,cpp,java,html,css,bootstrap,vercel,js,php,npm,postman,nodejs,mysql,py,pytorch,scikitlearn,tensorflow,docker,git,github,linkedin,cloudflare,jquery,vscode&theme=light)
 
+## Github Overall Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=whoisrojal&show_icons=true&locale=en" alt="whoisrojal" /></p>
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=whoisrojal&show_icons=true&locale=en&layout=compact" alt="whoisrojal" /></p>
