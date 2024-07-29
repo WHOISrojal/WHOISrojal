@@ -8,6 +8,8 @@
 
 <img align="right" alt="Coding" height="400" width="500" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
+<h3 align="left">Everything About me:</h3>
+
 <p align="left"> <a href="https://twitter.com/rose_tweets007" target="blank"><img src="https://img.shields.io/twitter/follow/rose_tweets007?logo=twitter&style=for-the-badge" alt="rose_tweets007" /></a> </p>
 
 - 🔭 I’m currently working on **DevSecNetSysServCloud**
@@ -46,14 +48,14 @@
 <a href="https://discord.gg/tZVKuHCV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="755418439509868675" height="30" width="40" /></a>
 </p>
 
-## Contibution Snake Grid:
+<h3 align="left">Contribution Snake Grid:</h3>
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/WHOISrojal/WHOISrojal/output/github-contribution-grid-snake-dark.svg" />
 
 <h3 align="left">Languages and Tools:</h3>
 
 ![skills](https://skillicons.dev/icons?i=bash,debian,anaconda,windows,linux,kali,c,cpp,java,html,css,bootstrap,vercel,js,php,npm,postman,nodejs,mysql,py,pytorch,scikitlearn,tensorflow,docker,git,github,linkedin,cloudflare,jquery,vscode&theme=light)
 
-## Github Overall Stats:
+<h3 align="left">Github Overall Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=whoisrojal&show_icons=true&locale=en" alt="whoisrojal" /></p>
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=whoisrojal&show_icons=true&locale=en&layout=compact" alt="whoisrojal" /></p>
