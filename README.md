@@ -49,7 +49,7 @@
 </p>
 
 <h3 align="left">Contribution Snake Grid:</h3>
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/WHOISrojal/WHOISrojal/output/github-contribution-grid-snake-dark.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/WHOISrojal/WHOISrojal/output/github-contribution-grid-snake-light.svg" />
 
 <h3 align="left">Languages and Tools:</h3>
 
